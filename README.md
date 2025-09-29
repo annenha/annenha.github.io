@@ -4,7 +4,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Min hjemmeside</title>
 </head>
 <body>
   <h1>Velkommen til min side!</h1>
