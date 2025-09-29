@@ -1,10 +1,11 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Min hjemmeside</title>
+</head>
+<body>
+  <h1>Velkommen til min side!</h1>
+  <p>Dette er min første nettside på GitHub Pages 🎉</p>
+</body>
+</html>
