@@ -5,7 +5,7 @@
   <title>Min hjemmeside</title>
 </head>
 <body>
-  <h1>Velkommen til min side!</h1>
+  <h1>test</h1>
   <p>Dette er min første nettside på GitHub Pages 🎉</p>
 </body>
 </html>
